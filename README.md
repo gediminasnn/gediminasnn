@@ -1,20 +1,22 @@
-### Hi there, I'm Gediminas 👋
+### Hi there 👋, I'm Gediminas
+#### 3rd year college student of Kaunas College
+Currently completing Professional Bachelor of Computing Field, Information Finance Systems. Trying to get a job to expand my knowledge about programming, PHP frameworks and working with databases.
 
-- 🔭 Currently creating my first Symfony Project: [https://github.com/gediminasnn/SymfonyProject][course] !
-- 🌱 Learning everything 🤣
-- 👯 I’m looking for a job as backend web developer
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love chess
+Skills: PHP / Symfony / HTML / CSS
 
-### Connect with me:
+- 🔭 I’m currently working on my GitHub profile. 
+- 🌱 I’m currently learning Symfony Api Platform. 
+- 📫 How to reach me: my email - neniusgediminas@gmail.com 
+- ⚡ Fun fact: I'm learned PHP and Symfony framework on my own. 
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gediminasnn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gediminasn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gediminasnn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12374359/gediminas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100001489624783)  
+
+![GitHub metrics](https://metrics.lecoq.io/gediminasnn)  
+
+![Profile views](https://gpvc.arturio.dev/gediminasnn)  
+
+</br>
 
 ### Languages and Tools:
 
