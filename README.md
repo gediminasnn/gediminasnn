@@ -21,8 +21,7 @@ Skills: PHP / Symfony / HTML / CSS
 
 [<img align="left" alt="PhpStorm" width="26px" src="https://user-images.githubusercontent.com/70708109/103173543-6c8c5e00-4864-11eb-8a96-c99338d446fc.png" />][1]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][1]
-[<img align="left" alt="PHP" width="26px" src="
-https://user-images.githubusercontent.com/70708109/103173586-9fceed00-4864-11eb-8d6b-0290a6238101.png"/>][1]
+[<img align="left" alt="PHP" width="26px" src="https://user-images.githubusercontent.com/70708109/103173612-c2610600-4864-11eb-900e-12e59b1a636a.png"/>][1]
 [<img align="left" alt="Symfony" width="26px" src="https://user-images.githubusercontent.com/70708109/103173522-4c5c9f00-4864-11eb-919e-a37ceecb8242.png" />][1]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][1]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][1]
