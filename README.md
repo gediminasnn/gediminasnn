@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Gediminas
 #### 3rd year college student of Kaunas College
-Currently completing Professional Bachelor of Computing Field, Information Finance Systems. Trying to get a job to expand my knowledge about programming, PHP frameworks and working with databases.
+Currently completing Professional Bachelor of Computing Field, Information Finance Systems. Trying to get a job to expand my knowledge in programming, PHP frameworks, working with databases.
 
 Skills: PHP / Symfony / HTML / CSS
 
