@@ -7,7 +7,7 @@ Skills: PHP / Symfony / HTML / CSS
 - 🔭 I’m currently working on my GitHub profile. 
 - 🌱 I’m currently learning Symfony Api Platform. 
 - 📫 How to reach me: my email - neniusgediminas@gmail.com 
-- ⚡ Fun fact: I'm learned PHP and Symfony framework on my own. 
+- ⚡ Fun fact: I learned PHP and Symfony on my own. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gediminasnn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gediminasn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gediminasnn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12374359/gediminas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100001489624783)  
