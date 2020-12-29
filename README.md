@@ -12,7 +12,7 @@ Skills: PHP / Symfony / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gediminasnn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gediminasn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gediminasnn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12374359/gediminas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100001489624783)  
 
-![GitHub metrics](https://metrics.lecoq.io/gediminasnn)  
+![GitHub metrics](https://metrics.lecoq.io/gediminasnn?config.timezone=Europe%2FVilnius)
 
 ![Profile views](https://gpvc.arturio.dev/gediminasnn)  
 
