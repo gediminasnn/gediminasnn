@@ -12,7 +12,7 @@ Skills: PHP / Symfony / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gediminasnn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gediminasn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gediminasnn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12374359/gediminas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100001489624783)  
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gediminasnn&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gediminasnn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub metrics](https://metrics.lecoq.io/gediminasnn?config.timezone=Europe%2FVilnius)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gediminasnn&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
