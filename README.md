@@ -28,16 +28,22 @@ Skills: PHP / Symfony / HTML / CSS
 [<img align="left" alt="CPP" width="26px" src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg"/>][1]
 [<img align="left" alt="Csharp" width="26px" src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg"/>][1]
 [<img align="left" alt="Java" width="26px" src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg"/>][1]
+[<img align="left" alt="Python" width="26px" src="https://devicon.dev/devicon.git/icons/python/python-original.svg"/>][1]
 [<img align="left" alt="Symfony" width="26px" src="https://user-images.githubusercontent.com/70708109/103173522-4c5c9f00-4864-11eb-919e-a37ceecb8242.png" />][1]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][1]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][1]
 [<img align="left" alt="JavaScript" width="26px" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" />][1]
+[<img align="left" alt="Bootstrap" width="26px" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" />][1]
 [<img align="left" alt="Doctrine" width="26px" src="https://user-images.githubusercontent.com/70708109/103182634-a33e9480-48b5-11eb-9bb2-e70d31be763f.png" />][1]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][1]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][1]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][1]
+[<img align="left" alt="MySQL" width="26px" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" />][1]
+[<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][1]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][1]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][1]
+[<img align="left" alt="Docker" width="26px" src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" />][1]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />[1]
+[<img align="left" alt="Bash" width="26px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />[1]
+[<img align="left" alt="Photoshop" width="26px" src="https://devicon.dev/devicon.git/icons/photoshop/photoshop-plain.svg" />[1]
+
 
 
 
