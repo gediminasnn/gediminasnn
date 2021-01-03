@@ -43,7 +43,7 @@ Skills: PHP / Symfony / HTML / CSS
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][1]
 [<img align="left" alt="Bash" width="26px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />][1]
 [<img align="left" alt="Photoshop" width="26px" src="https://user-images.githubusercontent.com/70708109/103491745-dee5db00-4e2e-11eb-8cb6-ca41469bddd4.png" />][1]
-
+[<img align="left" alt="MsAcess" width="26px" src="https://user-images.githubusercontent.com/70708109/103491788-31bf9280-4e2f-11eb-83aa-85b33a6c1d20.png" />][1]
 
 
 
