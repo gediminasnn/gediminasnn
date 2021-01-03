@@ -27,7 +27,7 @@ Skills: PHP / Symfony / HTML / CSS
 [<img align="left" alt="PHP" width="26px" src="https://user-images.githubusercontent.com/70708109/103491648-44859780-4e2e-11eb-80d3-a28af57f9275.jpg"/>][1]
 [<img align="left" alt="CPP" width="26px" src="https://user-images.githubusercontent.com/70708109/103491664-57986780-4e2e-11eb-9980-7d568c399997.png"/>][1]
 [<img align="left" alt="Csharp" width="26px" src="https://user-images.githubusercontent.com/70708109/103491674-6717b080-4e2e-11eb-995d-7d7362066d91.png"/>][1]
-[<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/70708109/103491687-7ac31700-4e2e-11eb-9f62-cface69fb8ef.png"/>][1]
+[<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/70708109/103491765-09379880-4e2f-11eb-9613-abd8940764c2.png"/>][1]
 [<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/70708109/103491699-89a9c980-4e2e-11eb-95db-fe5f1230c397.png"/>][1]
 [<img align="left" alt="Symfony" width="26px" src="https://user-images.githubusercontent.com/70708109/103173522-4c5c9f00-4864-11eb-919e-a37ceecb8242.png" />][1]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][1]
