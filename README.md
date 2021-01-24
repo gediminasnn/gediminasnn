@@ -2,7 +2,7 @@
 #### 3rd year college student of Kaunas College
 Currently completing Professional Bachelor of Computing Field, Information Finance Systems. Trying to get a job to expand my knowledge in programming.
 
-Main Skills: PHP / Symfony / HTML / CSS
+Main Skills: PHP / Symfony
 
 - 🔭 I’m currently working on my GitHub profile. 
 - 🌱 I like competing in competetive programming. 
