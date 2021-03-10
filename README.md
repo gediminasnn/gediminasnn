@@ -2,10 +2,9 @@
 #### 3rd year college student of Kaunas College
 Currently completing Professional Bachelor of Computing Field, Information Finance Systems. Trying to get a job to expand my knowledge in programming.
 
-Main Skills: PHP
+Main Skills: PHP, Symfony and Laravel frameworks
 
-- 🔭 I’m currently working on my GitHub profile.
-- 🌱 I like competing in competetive programming. 
+- 🔭 I’m currently working on my GitHub Portfolio.
 - 📫 How to reach me: by email - neniusgediminas@gmail.com
 - ⚡ Fun fact: I have over 1300 elo in blitz on Lichess.org
 
