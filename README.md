@@ -2,14 +2,14 @@
 #### 3rd year college student of Kaunas College
 Currently completing Professional Bachelor of Computing Field, Information Finance Systems. Trying to get a job to expand my knowledge in programming.
 
-Main Skills: PHP, Symfony and Laravel frameworks
+Main Skills: PHP(Symfony,Laravel), MERN Stack
 
-- 🔭 I’m currently working on my GitHub Portfolio.
+- 🔭 I’m currently working on learning MERN Stack.
 - 📫 How to reach me: by email - neniusgediminas@gmail.com
 - ⚡ Fun fact: I have over 1300 elo in blitz on Lichess.org
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gediminasnn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gediminasn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12374359/gediminas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/GediminasNN)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gediminasnn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gediminasn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12374359/gediminas)
 
 
 [![GediminasNN github stats](https://github-readme-stats.vercel.app/api?username=gediminasnn&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -35,8 +35,6 @@ Main Skills: PHP, Symfony and Laravel frameworks
 [<img align="left" alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][git]
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Docker" width="30px" src="https://user-images.githubusercontent.com/70708109/103491734-d097bf00-4e2e-11eb-8ca9-59a4e5e37774.png" />][docker]
-[<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
-[<img align="left" alt="MsAcess" width="30px" src="https://user-images.githubusercontent.com/70708109/103491788-31bf9280-4e2f-11eb-83aa-85b33a6c1d20.png" />][msaccess]
 
 
 
@@ -55,5 +53,4 @@ Main Skills: PHP, Symfony and Laravel frameworks
 [github]: https://github.com/
 [docker]: https://www.docker.com/
 [terminal]: https://en.wikipedia.org/wiki/Windows_Terminal
-[msaccess]: https://www.microsoft.com/en/microsoft-365/access
 
