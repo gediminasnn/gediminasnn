@@ -1,10 +1,9 @@
 ## Hi there 👋, I'm Gediminas
-### Software Developer at NFQ
-Just completed Professional Bachelor of Computing Field, Information Finance Systems.
+### Full-Stack Software Developer
+Completed Professional Bachelor of Computing Field, Information Finance Systems.
 
-Main Skills: PHP(Symfony)
+Main Skills: Full-Stack Symfony development
 
-- 🔭 I’m currently working as Software Engineer @NFQ.
 - 📫 How to reach me: by email - neniusgediminas@gmail.com
 - ⚡ Fun fact: I have over 1400 elo in blitz on Lichess.org
 
