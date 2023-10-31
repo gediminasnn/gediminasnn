@@ -11,13 +11,10 @@ Main Skills: Full-Stack Symfony development
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gediminasnn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gediminasn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12374359/gediminas)
 
 
-[![GediminasNN github stats](https://github-readme-stats.vercel.app/api?username=gediminasnn&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gediminasnn&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/gediminasnn)  
-
-## Skills:
+## Had pleasure to work with :
 
 #### Backend stacks :
 [<img align="left" alt="PHP" width="30px" src="https://user-images.githubusercontent.com/70708109/103491648-44859780-4e2e-11eb-80d3-a28af57f9275.jpg"/>][php]
@@ -29,6 +26,12 @@ Main Skills: Full-Stack Symfony development
 [<img align="left" alt="NodeJs" width="30px" src="https://user-images.githubusercontent.com/70708109/174860884-50479347-8569-43d0-b420-ff3c031500b2.png" />][nodejs]
 [<img align="left" alt="ExpressJs" width="30px" src="https://user-images.githubusercontent.com/70708109/174859901-cfeecb30-12e2-46ca-bcc1-29d84bdf3f5e.png" />][expressjs]
 <br>
+
+[<img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/70708109/279370694-1789ce72-5e11-4415-a14d-70d1ef8ce17b.svg" />][java]
+[<img align="left" alt="SpringBoot" width="30px" src="https://user-images.githubusercontent.com/70708109/279370688-370458c5-662c-499e-ad1a-3357f6647aa0.png" />][springboot]
+<br>
+
+
 
 [<img align="left" alt="csharp" width="30px" src="https://user-images.githubusercontent.com/70708109/174859950-2120e220-ef12-4c25-ba95-d00c3f998901.png" />][csharp]
 [<img align="left" alt="xamarin" width="30px" src="https://user-images.githubusercontent.com/70708109/174859984-76d6bf7e-cbd7-4f7a-940a-2c5ddf28e338.png" />][xamarin]
@@ -118,3 +121,5 @@ Main Skills: Full-Stack Symfony development
 [gitlab]: https://about.gitlab.com/
 [prestashop]: https://www.prestashop.com/en
 [sylius]: https://sylius.com/
+[java]: https://www.java.com/en/
+[springboot]: https://spring.io/
