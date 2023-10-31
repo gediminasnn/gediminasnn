@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Gediminas
 ### Full-Stack Software Developer
-Completed Professional Bachelor of Computing Field, Information Finance Systems.
+Completed Professional Bachelor of Computing Field, Information Finance Systems at Kaunas College.
 
 Main Skills: Full-Stack Symfony development
 
