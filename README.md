@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Gediminas
 ### Full-Stack Software Developer
-Completed Professional Bachelor of Computing Field, Information Finance Systems at Kaunas College.
+Have completed Professional Bachelor of Computing Field, Information Finance Systems at Kaunas College.
 
-Main Skills: Full-Stack Symfony development
+Main Official Experience: Full-Stack PHP development
 
 - 📫 How to reach me: by email - neniusgediminas@gmail.com
 - ⚡ Fun fact: I have over 1400 elo in blitz on Lichess.org
